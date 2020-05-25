@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mp4.iml" filepath="$PROJECT_DIR$/.idea/mp4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../photopjt/.idea/photopjt.iml" filepath="$PROJECT_DIR$/../photopjt/.idea/photopjt.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/selenium_test_input/.idea/selenium_test_input.iml" filepath="$USER_HOME$/Desktop/selenium_test_input/.idea/selenium_test_input.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/taobao_cart_buy/.idea/taobao_cart_buy.iml" filepath="$USER_HOME$/Desktop/taobao_cart_buy/.idea/taobao_cart_buy.iml" />
+    </modules>
+  </component>
+</project>
